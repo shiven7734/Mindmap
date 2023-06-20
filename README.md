@@ -1,4 +1,4 @@
-# HacksJPS
+# MindMap
 
 run the "server.py" file with:
   cd flask-server | 
